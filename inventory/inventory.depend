@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626765463 source:c:\users\hp\documents\firstworlplace\inventory\main.cpp
+	<iostream>
+	<stdio.h>
+	<process.h>
+	<fstream>
+	<string.h>
+	<windows.h>
+
